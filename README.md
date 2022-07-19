@@ -1,5 +1,5 @@
-# HTML_Study
-HTML_Basic_Syntax_Study
+# HTML_STUDY
+HTML_Basic_Syntax_STUDY
 
 생활코딩 유튜브 참고
 https://www.youtube.com/watch?v=OGFgdro160I&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB
